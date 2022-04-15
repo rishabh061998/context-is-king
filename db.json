@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Ritika",
+      "age": "25",
+      "dateOfBirth": "2022-04-10",
+      "stateOfResidence": "Uk",
+      "address": "haridwar",
+      "pincode": "123456",
+      "id": 1
+    },
+    {
+      "name": "Riya",
+      "age": "26",
+      "dateOfBirth": "2022-03-30",
+      "stateOfResidence": "Rajasthan",
+      "address": "Jaipur",
+      "pincode": "897845",
+      "id": 2
+    },
+    {
+      "name": "Salman",
+      "age": "25",
+      "dateOfBirth": "2022-04-08",
+      "stateOfResidence": "Delhi",
+      "address": "Delhi",
+      "pincode": "771125",
+      "id": 3
+    }
+   
+  ]
+}
+
+
